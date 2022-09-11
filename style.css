@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+
+
+body{
+    background-image: url(images/luis-lara-P5Bi-Aa6cwU-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Mouse Memoirs', sans-serif;
+
+}
+
+ h2{
+    font-size: 4rem;
+    margin-top: 1rem;
+    font-family: 'Mouse Memoirs', sans-serif;
+
+}
+
+.container {
+    display: flex;
+    
+}
+.big-text {
+    font-size: 6rem;
+    line-height: 1;
+    margin: 1rem 2rem;
+}
+.el {
+    text-align: center;
+
+}
+.el span{
+    font-size: 1.5rem;
+}
